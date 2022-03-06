@@ -3,15 +3,10 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, onMounted } from '@nuxtjs/composition-api'
-// import { StoreState } from '@/store'
+import { defineComponent } from '@nuxtjs/composition-api'
 
 export default defineComponent({
   setup() {
-    // const store = useStore() as StoreState
-
-    onMounted(() => {})
-
     return {}
   },
 })
