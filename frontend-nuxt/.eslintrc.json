@@ -50,7 +50,7 @@
         "requireLast": false
       }
     }],
-    "@typescript-eslint/object-curly-spacing": ["warn", "always"]
+    "@typescript-eslint/object-curly-spacing": ["warn", "always"],
     "vue/multi-word-component-names": ["off"]
   }
 }
